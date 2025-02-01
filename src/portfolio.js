@@ -180,7 +180,7 @@ const workExperiences = {
     {
       role: "Senior IT Engineer",
       company: "myEG Services Berhad",
-      companylogo: require("./assets/images/myegLogo.jpg"),
+      companylogo: require("./assets/images/myegLogo.png"),
       date: "March 2025 – Present",
       desc: "Malaysia Electronic-Government ('E-Government') MSC Flagship Application",
       descBullets: [
